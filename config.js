@@ -10,12 +10,12 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['6281944303681', 'NANS OFFC', true],
-  ['6281944303681']
+  ['628', 'NANS OFFC', true],
+  ['628']
 ] // Nomor Owner
 
-global.mods = ['6281944303681'] 
-global.prems = ['6281944303681', '6281944303681']
+global.mods = ['6281'] 
+global.prems = ['6281', '6281944303681']
 
 // apikey
 global.btc = 'rc7U7qAF'
@@ -36,7 +36,7 @@ global.APIs = { // API Prefix
 
 // Watermark
 global.nama = 'Mirai' // nama owner
-global.nomor = '6281944303681' // nomor owner
+global.nomor = '6281' // nomor owner
 global.nans = 'Mirai Bot MD' // nama bot 
 global.thumb = 'https://telegra.ph/file/2968043b974e1eaebca88.jpg' // thumbnail bot ( foto menu )
 global.dygp = 'https://chat.whatsapp.com' // link group yang ada di menu
@@ -51,7 +51,7 @@ global.fgpyp = 'https://nansoffc.my.id' // bebas tapi jangan kosong
 global.fglog = 'https://i.ibb.co/kXw4XhL/nansoffc-logo.jpg'
 
 // Other
-global.dana = '6281944303681'
+global.dana = '6281'
 global.qris = 'https://i.ibb.co/xGC5Y7j/20230712-173348.jpg'
 global.web = 'https://youtube.com/@mirai2708?si=hUOV9DFxf3h1vkii'
 global.email = 'sagirisagiriizumi@gmail.com'
