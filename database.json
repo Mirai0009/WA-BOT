@@ -1,0 +1,124 @@
+{
+  "users": {
+    "6281944303681@s.whatsapp.net": {
+      "exp": 108,
+      "diamond": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Mirai",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novato",
+      "autolevelup": false,
+      "chatbot": false
+    },
+    "6285344161990@s.whatsapp.net": {
+      "exp": 79,
+      "diamond": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "🐤",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novato",
+      "autolevelup": false,
+      "chatbot": false
+    }
+  },
+  "chats": {
+    "6281944303681@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": true,
+      "onlyLatinos": false,
+      "nsfw": false,
+      "expired": 0
+    },
+    "120363163932865951@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": true,
+      "onlyLatinos": false,
+      "nsfw": false,
+      "expired": 0
+    },
+    "120363045691739273@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": true,
+      "onlyLatinos": false,
+      "nsfw": false,
+      "expired": 0
+    }
+  },
+  "stats": {
+    "main-ping.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1698752028790,
+      "lastSuccess": 1698752028790
+    },
+    "main-runtime.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1698756196983,
+      "lastSuccess": 1698756196983
+    },
+    "gp-hidetag.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1698756258231,
+      "lastSuccess": 1698756258231
+    },
+    "main-menu.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1698752090877,
+      "lastSuccess": 1698752090877
+    }
+  },
+  "msgs": {},
+  "sticker": {},
+  "settings": {
+    "6281944303681@s.whatsapp.net": {
+      "self": false,
+      "autoread": false,
+      "restrict": false,
+      "status": 0
+    }
+  }
+}
